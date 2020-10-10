@@ -1,0 +1,30 @@
+<?xmlversion="1.0"encoding="UTF-8"?>
+<library>
+   <catalogue type="Technical">
+      <book>
+         <ISBN>0805390456</ISBN>
+         <Title>The Feynman Lectures on Physics</Title>
+         <Author>Richard P. Feynman</Author>
+      </book>
+
+      <book>
+         <ISBN>0060535954</ISBN>
+         <Title>Coming of age in the Milky Way</Title>
+         <Author>Timothy Ferris</Author>
+      </book>
+   </catalogue>
+
+   <catalogue type="Cookery">
+      <book>
+         <ISBN>0713663812</ISBN>
+         <Title>Fitness on a plate: Anita Bean's guide to healthy eating</Title>
+         <Author>Anita Bean</Author>
+      </book>
+	
+      <book>
+         <ISBN>1538719339</ISBN>
+         <Title>Goedin Ramsay Quick and Delicious: 100 Recipes to cook in 30 minutes or less</Title>
+         <Author>Gordon Ramsay</Author>
+      </book>
+   </catalogue>
+</library>
